@@ -1,0 +1,15 @@
+C:\Users\vicen\source\repos\FunctionalProgramming\Delegados\bin\Debug\net6.0\Delegados.exe
+C:\Users\vicen\source\repos\FunctionalProgramming\Delegados\bin\Debug\net6.0\Delegados.deps.json
+C:\Users\vicen\source\repos\FunctionalProgramming\Delegados\bin\Debug\net6.0\Delegados.runtimeconfig.json
+C:\Users\vicen\source\repos\FunctionalProgramming\Delegados\bin\Debug\net6.0\Delegados.dll
+C:\Users\vicen\source\repos\FunctionalProgramming\Delegados\bin\Debug\net6.0\ref\Delegados.dll
+C:\Users\vicen\source\repos\FunctionalProgramming\Delegados\bin\Debug\net6.0\Delegados.pdb
+C:\Users\vicen\source\repos\FunctionalProgramming\Delegados\obj\Debug\net6.0\Delegados.csproj.AssemblyReference.cache
+C:\Users\vicen\source\repos\FunctionalProgramming\Delegados\obj\Debug\net6.0\Delegados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\source\repos\FunctionalProgramming\Delegados\obj\Debug\net6.0\Delegados.AssemblyInfoInputs.cache
+C:\Users\vicen\source\repos\FunctionalProgramming\Delegados\obj\Debug\net6.0\Delegados.AssemblyInfo.cs
+C:\Users\vicen\source\repos\FunctionalProgramming\Delegados\obj\Debug\net6.0\Delegados.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\FunctionalProgramming\Delegados\obj\Debug\net6.0\Delegados.dll
+C:\Users\vicen\source\repos\FunctionalProgramming\Delegados\obj\Debug\net6.0\ref\Delegados.dll
+C:\Users\vicen\source\repos\FunctionalProgramming\Delegados\obj\Debug\net6.0\Delegados.pdb
+C:\Users\vicen\source\repos\FunctionalProgramming\Delegados\obj\Debug\net6.0\Delegados.genruntimeconfig.cache
